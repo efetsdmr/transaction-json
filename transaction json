@@ -1,0 +1,37 @@
+[
+  {
+    "id": 25,
+    "date": "02/16/2022",
+    "amount": 6.50,
+    "type": "debit",
+    "isExpense": false
+  },
+  {
+    "id": 23,
+    "date": "02/12/2023",
+    "amount": 672.50,
+    "type": "debit",
+    "isExpense": false
+  },
+  {
+    "id": 5,
+    "date": "03/16/2023",
+    "amount": 136.00,
+    "type": "debit",
+    "isExpense": false
+  },
+  {
+    "id": 16,
+    "date": "02/02/2022",
+    "amount": 6.50,
+    "type": "debit",
+    "isExpense": false
+  },
+  {
+    "id": 6,
+    "date": "02/25/2022",
+    "amount": 2600.50,
+    "type": "debit",
+    "isExpense": false
+  }
+ ]
